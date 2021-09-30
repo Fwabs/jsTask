@@ -83,7 +83,6 @@
 // ===================================================================================== //
 
 var functionOverForm = document.getElementById('functionOverForm');
-
 var clientInfo = [];
 
 functionOverForm.addEventListener('submit' , function(e){
